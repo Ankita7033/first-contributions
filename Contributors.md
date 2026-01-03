@@ -1,7 +1,7 @@
 # Contributors
 - [Aveta Shreya](https://github.com/AvetaSreya)
 - [Muhammad Zeeshan](https://github.com/ZeeshanUop) Hi Good Evening
-
+- [Ankita Maji](https://github.com/ankita-name). - my contribution 
 -[zerokali20](https://github.com/zerokali20) - Hi guys welcome to new year  !!!
 -[Ayush Raj](https://github.com/Ayushrajthegreat) -happy new year guys and let's learn open source deeply ....
 -[hu-119](https://github.com/hu119-web)
